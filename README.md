@@ -7,7 +7,7 @@ A simple, client-side web application built with **React** that uses a pre-train
 ## Features
 
 * **Client-side image classification**: Upload an image and get predictions produced locally in the browser.
-* **Top 3 live predictions**: Displays the top 3 animal labels with confidence scores.
+* **Top 3 live predictions**: Displays the top 3 animal labels with confidence scores. 
 * **Theme switcher**: Three themes available — Light, Dark, and Forest.
 * **Responsive design**: Works well on desktop and mobile devices.
 * **No backend required**: All inference runs with TensorFlow\.js on the client.
