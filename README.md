@@ -33,10 +33,10 @@ Run the app locally (see setup below) to try it out. The app performs inference 
 
 > You need Node.js (v16+ recommended) installed.
 
-1. Clone the repository (replace `your-username` with your GitHub username):
+1. Clone the repository :
 
 ```bash
-git clone https://github.com/your-username/animal-classifier-app.git
+git clone https://github.com/shreyas27092004/animal-classifier-app.git
 ```
 
 2. Change into the project directory:
